@@ -2,7 +2,7 @@
 LATIHAN12DPBO2022
 Saya Muhammad Rafli Syaputra dengan NIM 2005381 mengerjakan evaluasi Latihan 12 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-## Tampilan Tabel Awak
+## Tampilan Tabel Awal
 ![Screenshot 2022-05-28 201759](https://user-images.githubusercontent.com/99678525/170827988-83442637-7382-4cb5-8a4f-2d5f3974be29.jpg)
 ## Tampilan Form Pasien
 ![Screenshot 2022-05-28 200845](https://user-images.githubusercontent.com/99678525/170828001-27d32090-5b71-4e13-bfda-4c1e98355a46.jpg)
